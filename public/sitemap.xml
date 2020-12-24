@@ -4,7 +4,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/timeline/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/timeline/2020/2020/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/blog/skate/</loc>
+    <loc>/blog/2020-12-23-skate/skate/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   

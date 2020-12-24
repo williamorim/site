@@ -20,13 +20,12 @@ title = "William Amorim"
 author = "William Amorim"
 description = "Este é o meu site pessoal"
 profilePicture = "images/profile.jpg"
-keywords = ""
+keywords = ["william amorim"]
 favicon = "favicons/"
 customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 # customJs = [] 
-mainSections = ["blog", "escrita"]
-images = ["images/site-feature-image.png"]
+mainSections = ["blog", "contos", "timeline"]
 doNotLoadAnimations = false
 
 ## Math settings
@@ -50,6 +49,12 @@ url = "https://github.com/williamorim"
   weight = 100
   identifier = "home"
   url = "/"
+  
+  [[menu.main]]
+  name = "Timeline"
+  weight = 200
+  identifier = "timeline"
+  url = "/timeline/"
 
   [[menu.main]]
   name = "Blog"
@@ -58,14 +63,14 @@ url = "https://github.com/williamorim"
   url = "/blog/"
   
   [[menu.main]]
-  name = "Escrita"
-  weight = 300
-  identifier = "escrita"
-  url = "/escrita/"
+  name = "Contos"
+  weight = 400
+  identifier = "contos"
+  url = "/contos/"
   
   [[menu.main]]
   name = "Profissional"
-  weight = 300
+  weight = 500
   identifier = "profissional"
   url = "/profissional/"
 

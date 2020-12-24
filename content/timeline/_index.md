@@ -1,6 +1,6 @@
 ---
 aliases:
-- posts
+- timeline
 author: William Amorim
-id: "escrita"
+id: "timeline"
 ---
