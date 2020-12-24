@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Amorim</title>
+    <link>/</link>
+    <description>Recent content on William Amorim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020</title>
+      <link>/timeline/2020/2020/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/timeline/2020/2020/</guid>
+      <description>Faltou sintonia: eu fui de hi-five e ela de soquinho.</description>
+    </item>
+    
+    <item>
+      <title>Skate</title>
+      <link>/blog/2020-12-23-skate/skate/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-12-23-skate/skate/</guid>
+      <description>Não tenho nada contra skate ou skatistas, sinceramente.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abandonados</title>
+      <link>/contos/2017-04-20-abandonados/abandonados/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/contos/2017-04-20-abandonados/abandonados/</guid>
+      <description>A armadura prateada de Arthur brilhava sob o persistente sol da tarde, gotas de suor escapavam do seu rosto e pingavam na grama verde.</description>
+    </item>
+    
+    <item>
+      <title>Formigas</title>
+      <link>/contos/2017-02-02-formigas/2017-02-02-formigas/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/contos/2017-02-02-formigas/2017-02-02-formigas/</guid>
+      <description>Júlia empurrava lentamente o pesado carrinho de compras pelos corredores do supermercado quando percebeu que não fazia ideia do que estava fazendo.</description>
+    </item>
+    
+    <item>
+      <title>A bandeira desbotada</title>
+      <link>/contos/2017-01-25-bandeira-desbotada/2017-01-25-bandeira-desbotada/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/contos/2017-01-25-bandeira-desbotada/2017-01-25-bandeira-desbotada/</guid>
+      <description>Era uma esfera azul que girava despreocupadamente ao redor de um sol amarelo e sem graça.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/profissional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/profissional/</guid>
+      <description>Atualmente trabalho como professor, programador e cientista de dados na Curso-R e na R6, empresas das quais sou sou sócio-fundador.</description>
+    </item>
+    
+  </channel>
+</rss>
