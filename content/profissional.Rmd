@@ -1,0 +1,75 @@
+---
+author: William Amorim
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+Atualmente trabalho como professor, programador e cientista de dados na [Curso-R](https://www.curso-r.com/) e na [R6](https://www.curso-r.com/sobre/), empresas das quais sou sou sócio-fundador. 
+
+<center>
+```{r}
+htmltools::a(
+  href = "https://www.curso-r.com/",
+  title = "Link para site da Curso-R",
+  target = "_blank",
+  htmltools::img(
+    src = "../images/profissional/curso-r.png",
+    alt = "Logo Curso-R",
+    width = "30%",
+    style = "margin: auto;"
+  )
+)
+
+
+htmltools::a(
+  href = "https://www.curso-r.com/sobre/",
+  title = "Link para página da R6",
+  target = "_blank",
+  htmltools::img(
+    src = "../images/profissional/r6.png",
+    alt = "Logo R6 Consultoria",
+    width = "30%"
+  )
+)
+```
+</center>
+
+A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é simplificar a Ciência de Dados para todas as pessoas, independentemente da área de formação.
+
+A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em [Shiny](https://shiny.rstudio.com/gallery/) e *web scraping*.
+
+```{r}
+htmltools::a(
+  href = "https://williamorim.github.io/resume/",
+  title = "Currículo William Nilson de Amorim",
+  "Meu currículo completo."
+)
+```
+
+
+### Cursos que ministro
+
+Cursos de programação em R e Ciência de Dados que ministro atualmente pela Curso-R:
+
+- [R para Ciência de Dados I](https://www.curso-r.com/cursos/r4ds-1/)
+
+- [R para Ciência de Dados II](https://www.curso-r.com/cursos/r4ds-2/)
+
+- [Dashboards](https://www.curso-r.com/cursos/dashboards/)
+
+- [Regressão Linear](https://www.curso-r.com/cursos/regressao-linear/)
+
+### Trabalhos
+
+A seguir alguns aplicativos Shiny que contrui:
+
+- [Dashboard para dados de COVID na Irlanda](https://hamilton-institute.github.io/docs/dashboard.html)
+<br><span style = "font-size: 10pt; margin-left: 10px;">Hamilton Institute, Maynooth University</span>
+
+- [Painel analítico do Instituto Sou da Paz](https://sdpa.shinyapps.io/sdpa/)

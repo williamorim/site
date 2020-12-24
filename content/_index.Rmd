@@ -1,0 +1,34 @@
+---
+author: William Amorim
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+idade <- floor(as.numeric((Sys.Date() - as.Date("1989/07/29")) / 365))
+
+```
+
+## Sobre mim
+
+Meu nome é William Nilson de Amorim, tenho `r idade` anos e moro em São Paulo (SP) desde que nasci.
+
+Sou doutor em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) e trabalho como cientista de dados na R6 Consultoria, uma empresa que abri com amigos da faculdade em 2018. Também dou aulas de programação em R pela Curso-R, o braço educacional da R6.
+
+Sou apaixonado por histórias e por futebol.
+
+Tenho duas gatas: a Sophia e a Summer.
+
+<center>
+  <img src="../images/home/sophia.jpg" class = "imagem-bola">
+  <img src="../images/home/summer.jpg" class = "imagem-bola">
+</center>
+
+<br> 
+
+## Sobre este site
+
+A ideia deste site surgiu quando resolvi apagar as minhas redes sociais. É uma maneira de continuar me comunicando, sem o intermédio algoritmos e empresas. 
+
+O que você vê neste site é o mesmo que qualquer outra pessoa, não há nada otimizado para você. Também não há propagandas, nem botões de like, nem contadores de acesso ou qualquer marcador de navegação. Você está no controle do seu clique: ele é seu e não está sendo trocado por nada aqui.

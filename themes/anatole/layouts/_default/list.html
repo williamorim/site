@@ -1,0 +1,31 @@
+{{ define "main" }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Params.id) }}
+    {{ range $paginator.Pages.Reverse }}
+
+        <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
+            <div class="post-title">
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+            </div>
+            <div class="post-content">
+                <div class="p_part"><p>{{ .Params.description }}</p></div>
+            </div>
+            <div class="post-footer">
+                <div class="meta">
+                    <div class="info"><em class="fas fa-calendar-day"></em><span
+                                class="date"> {{ index $.Site.Data.dia (printf "%d" .Date.Weekday) }}, {{ .Date.Day }} {{ index $.Site.Data.mes (printf "%d" .Date.Month) }}, {{ .Date.Year }} </span>
+                        {{ with .Params.tags }}
+                            {{- range $index, $el := . -}}
+                                <a class="tag"
+                                   href="{{ ( printf "tags/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
+                            {{- end -}}
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+    <div class="pagination">
+        {{ template "_internal/pagination.html" . }}
+    </div>
+{{ end }}
