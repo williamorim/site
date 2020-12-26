@@ -1,6 +1,6 @@
 ---
-title: 2020
-description: "Um ano em casa"
+title: Momentos de 2020
+description: "Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, da minha com certeza. Mas que teve seus momentos."
 author:  William Amorim
 date: 2020-12-24
 ---
@@ -11,17 +11,20 @@ knitr::opts_chunk$set(
   warning = FALSE
 )
 
-# library(htmltools)
+source("../utils.R")
 ```
+
+<!-- --------------------- -->
 
 <div class="timeline-item" date-is='11 de novembro'>
 
 <img src = "../../../images/timeline/2020-11-17-sophia-hi-five.jpg">
 
-Faltou sintonia: eu fui de hi-five e ela de soquinho.
+Faltou sintonia: eu fui de *high five* e ela de soquinho.
 
 </div>
 
+<!-- --------------------- -->
 
 <div class="timeline-item" date-is='25 de outubro'>
 
@@ -31,6 +34,7 @@ Café-da-manhã antes de passeio de bicicleta.
 
 </div>
 
+<!-- --------------------- -->
 
 <div class="timeline-item" date-is='19 de setembro'>
 
@@ -40,6 +44,7 @@ Amor em tempos de pandemia.
 
 </div>
 
+<!-- --------------------- -->
 
 <div class="timeline-item" date-is='7 de março'>
 
@@ -47,3 +52,61 @@ Amor em tempos de pandemia.
 
 Em Arraial do Cabo com essa fofura de ser.
 </div>
+
+<!-- --------------------- -->
+
+<div class="timeline-item" date-is='11 de janeiro'>
+
+```{r}
+criar_slideshow(
+  c(
+    "../../../images/timeline/2020-01-24-angelica-tonkotsu-1.jpg",
+    "../../../images/timeline/2020-01-24-angelica-tonkotsu-2.jpg"
+  ),
+  id = "2020-01-24-angelica-tonkotsu"
+)
+```
+
+Melhor Ramen que já comi (Tonkotsuramen, nos Jardins).
+
+</div>
+
+
+<!-- --------------------- -->
+
+<div class="timeline-item" date-is='11 de janeiro'>
+
+```{r}
+criar_slideshow(
+  c(
+    "../../../images/timeline/2020-01-11-angelica-drosophyla-1.jpg",
+    "../../../images/timeline/2020-01-11-angelica-drosophyla-2.jpg"
+  ),
+  id = "2020-01-11-angelica-drosophyla"
+)
+```
+
+Conhecendo juntinhos o [Drosophyla bar](https://www.drosophyla.com.br/).
+
+</div>
+
+<!-- --------------------- -->
+
+<div class="timeline-item" date-is='7 de janeiro'>
+
+<img src = "../../../images/timeline/2020-01-07-angelica-etto.jpg">
+
+Jantar na melhor companhia no restaurante [Etto](http://www.ettorestaurante.com.br/).
+
+</div>
+
+<!-- --------------------- -->
+
+<div class="timeline-item" date-is='6 de janeiro'>
+
+<img src = "../../../images/timeline/2020-01-06-summer-sofa.jpg">
+
+</div>
+
+<!-- --------------------- -->
+

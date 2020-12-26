@@ -24,8 +24,7 @@ profilePicture = "images/profile.jpg"
 keywords = ["william amorim"]
 favicon = "favicons/"
 customCss = ["css/custom.css"]
-# example ["js/custom.js"]
-# customJs = [] 
+customJs = ["js/slideshow.js"] 
 mainSections = ["blog", "contos", "timeline"]
 doNotLoadAnimations = false
 

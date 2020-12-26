@@ -44,14 +44,7 @@ A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com f
 
 A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em [Shiny](https://shiny.rstudio.com/gallery/) e *web scraping*.
 
-```{r}
-htmltools::a(
-  href = "https://williamorim.github.io/resume/",
-  title = "Currículo William Nilson de Amorim",
-  "Meu currículo completo."
-)
-```
-
+`r htmltools::a(href = "https://williamorim.github.io/resume/", title = "Currículo William Nilson de Amorim", "Clique aqui", target = "_blank")` para acessar meu currículo.
 
 ### Cursos que ministro
 

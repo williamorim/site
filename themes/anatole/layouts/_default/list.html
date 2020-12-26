@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Params.id) }}
-    {{ range $paginator.Pages.Reverse }}
+    {{ range $paginator.Pages }}
 
         <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
             <div class="post-title-list">
