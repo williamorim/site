@@ -11,7 +11,7 @@ knitr::opts_chunk$set(
   warning = FALSE
 )
 
-source("../../utils.R")
+source("../utils.R")
 ```
 
 Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi. Mas que também teve companherismo, risadas, maratona de The Office e muito amor.
@@ -23,8 +23,8 @@ Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente
 ```{r}
 criar_slideshow(
   c(
-    "../../../images/timeline/2020-12-16-angelica-natal-1.jpg",
-    "../../../images/timeline/2020-12-16-angelica-natal-2.jpg"
+    "../../images/timeline/2020-12-16-angelica-natal-1.jpg",
+    "../../images/timeline/2020-12-16-angelica-natal-2.jpg"
   ),
   id = "2020-12-16-angelica-natal"
 )
@@ -32,13 +32,23 @@ criar_slideshow(
  
 Nosso Natal :)
 
+</div> 
+
+<!-- --------------------- -->
+
+<div class="timeline-item" date-is='13 de dezembro'>
+
+<img src = "../../images/blog/pequeno-manual-antirracista.jpg">
+
+Uma das poucas leituras no ano, mas uma essencial. Escrevi um texto `r criar_link("aqui", url = "https://wamorim.com/blog/2020-12-28-pequeno-manual-antirracista/")`.
+
 </div>
 
 <!-- --------------------- -->
 
 <div class="timeline-item" date-is='11 de novembro'>
 
-<img src = "../../../images/timeline/2020-11-17-sophia-hi-five.jpg">
+<img src = "../../images/timeline/2020-11-17-sophia-hi-five.jpg">
 
 Faltou sintonia: eu fui de *high five* e ela de soquinho.
 
@@ -48,7 +58,7 @@ Faltou sintonia: eu fui de *high five* e ela de soquinho.
 
 <div class="timeline-item" date-is='1º de novembro'>
 
-<img src = "../../../images/timeline/2020-11-01-boardgame-got.jpg">
+<img src = "../../images/timeline/2020-11-01-boardgame-got.jpg">
 
 Boardgame Game of Thrones. 6+ horas de jogo, 4 entendendo as regras.
 
@@ -59,7 +69,7 @@ Boardgame Game of Thrones. 6+ horas de jogo, 4 entendendo as regras.
 
 <div class="timeline-item" date-is='25 de outubro'>
 
-<img src = "../../../images/timeline/2020-10-25-cafe-da-manha.jpg">
+<img src = "../../images/timeline/2020-10-25-cafe-da-manha.jpg">
 
 Café-da-manhã antes de passeio de bicicleta.
 
@@ -69,7 +79,7 @@ Café-da-manhã antes de passeio de bicicleta.
 
 <div class="timeline-item" date-is='19 de setembro'>
 
-<img src = "../../../images/timeline/2020-09-19-angelica-beijo.jpg">
+<img src = "../../images/timeline/2020-09-19-angelica-beijo.jpg">
 
 Amor em tempos de pandemia.
 
@@ -79,7 +89,7 @@ Amor em tempos de pandemia.
 
 <div class="timeline-item" date-is='12 de agosto'>
 
-<img src = "../../../images/timeline/2020-08-12-fallguys.jpg">
+<img src = "../../images/timeline/2020-08-12-fallguys.jpg">
 
 Primeiro lugar no Fall Guys: a maior conquista do ano.
 
@@ -89,7 +99,7 @@ Primeiro lugar no Fall Guys: a maior conquista do ano.
 
 <div class="timeline-item" date-is='17 de julho'>
 
-<img src = "../../../images/blog/what-remains-1.jpg">
+<img src = "../../images/blog/what-remains-1.jpg">
 
 Melhor jogo que joguei em 2020! Escrevi um textinho `r criar_link("aqui", url = "https://wamorim.com/blog/2020-12-27-what-remains/what-remains/")`.
 
@@ -100,7 +110,7 @@ Melhor jogo que joguei em 2020! Escrevi um textinho `r criar_link("aqui", url = 
 
 <div class="timeline-item" date-is='11 de junho'>
 
-<img src = "../../../images/timeline/2020-06-11-sophia-dormindo-sol.jpg">
+<img src = "../../images/timeline/2020-06-11-sophia-dormindo-sol.jpg">
 
 </div>
 
@@ -108,7 +118,7 @@ Melhor jogo que joguei em 2020! Escrevi um textinho `r criar_link("aqui", url = 
 
 <div class="timeline-item" date-is='2 de junho'>
 
-<img src = "../../../images/timeline/2020-06-02-sophia-summer-unidas-pelo-frio.jpg">
+<img src = "../../images/timeline/2020-06-02-sophia-summer-unidas-pelo-frio.jpg">
 
 Unidas pelo frio.
 
@@ -118,7 +128,7 @@ Unidas pelo frio.
 
 <div class="timeline-item" date-is='18 de abril'>
 
-<img src = "../../../images/timeline/2020-04-18-cookies.jpg">
+<img src = "../../images/timeline/2020-04-18-cookies.jpg">
 
 Esse ano precisou bastante.
 
@@ -132,8 +142,8 @@ Esse ano precisou bastante.
 ```{r}
 criar_slideshow(
   c(
-    "../../../images/timeline/2020-03-07-angelica-arraial-1.jpg",
-    "../../../images/timeline/2020-03-07-angelica-arraial-2.jpg"
+    "../../images/timeline/2020-03-07-angelica-arraial-1.jpg",
+    "../../images/timeline/2020-03-07-angelica-arraial-2.jpg"
   ),
   id = "2020-03-07-angelica-arraial"
 )
@@ -148,7 +158,7 @@ Em Arraial do Cabo com essa fofura de ser.
 
 <div class="timeline-item" date-is='29 de fevereiro'>
 
-<img src = "../../../images/timeline/2020-02-29-angelica-casamento-dri.jpg">
+<img src = "../../images/timeline/2020-02-29-angelica-casamento-dri.jpg">
 
 s2s2s2s2
 
@@ -158,7 +168,7 @@ s2s2s2s2
 
 <div class="timeline-item" date-is='21 de fevereiro'>
 
-<img src = "../../../images/timeline/2020-02-21-angelica-bar-dona-onca.jpg">
+<img src = "../../images/timeline/2020-02-21-angelica-bar-dona-onca.jpg">
 
 Comendo coxinha no `r criar_link("Bar da Dona Onça", url = "https://bardadonaonca.com.br/")`.
 </div>
@@ -170,10 +180,10 @@ Comendo coxinha no `r criar_link("Bar da Dona Onça", url = "https://bardadonaon
 ```{r}
 criar_slideshow(
   c(
-    "../../../images/timeline/2020-02-15-angelica-monte-verde-1.jpg",
-    "../../../images/timeline/2020-02-15-angelica-monte-verde-2.jpg",
-    "../../../images/timeline/2020-02-15-angelica-monte-verde-3.jpg",
-    "../../../images/timeline/2020-02-15-angelica-monte-verde-4.jpg"
+    "../../images/timeline/2020-02-15-angelica-monte-verde-1.jpg",
+    "../../images/timeline/2020-02-15-angelica-monte-verde-2.jpg",
+    "../../images/timeline/2020-02-15-angelica-monte-verde-3.jpg",
+    "../../images/timeline/2020-02-15-angelica-monte-verde-4.jpg"
   ),
   id = "2020-02-15-angelica-monte-verde"
 )
@@ -187,7 +197,7 @@ Nossa primeira viagem (Monte Verde, MG).
 
 <div class="timeline-item" date-is='13 de fevereiro'>
 
-<img src = "../../../images/timeline/2020-02-13-sophia-summer-deitado-sofa.jpg">
+<img src = "../../images/timeline/2020-02-13-sophia-summer-deitado-sofa.jpg">
 
 O prazer de chegar em casa.
 
@@ -198,7 +208,7 @@ O prazer de chegar em casa.
 
 <div class="timeline-item" date-is='8 de fevereiro'>
 
-<img src = "../../../images/timeline/2020-02-08-angelica-augusta.jpg">
+<img src = "../../images/timeline/2020-02-08-angelica-augusta.jpg">
 
 Aprontando na Augusta.
 
@@ -209,7 +219,7 @@ Aprontando na Augusta.
 
 <div class="timeline-item" date-is='29 de janeiro'>
 
-<img src = "../../../images/timeline/2020-01-29-lari-hamburguer.jpg">
+<img src = "../../images/timeline/2020-01-29-lari-hamburguer.jpg">
 
 Primeira vez que vejo a Lari apenas uma vez no ano :(
 
@@ -219,7 +229,7 @@ Primeira vez que vejo a Lari apenas uma vez no ano :(
 
 <div class="timeline-item" date-is='26 de janeiro'>
 
-<img src = "../../../images/timeline/2020-01-26-angelica-show-maria-rita.jpg">
+<img src = "../../images/timeline/2020-01-26-angelica-show-maria-rita.jpg">
 
 Show show da Maria Rita.
 
@@ -232,8 +242,8 @@ Show show da Maria Rita.
 ```{r}
 criar_slideshow(
   c(
-    "../../../images/timeline/2020-01-25-angelica-mule-mule-1.jpg",
-    "../../../images/timeline/2020-01-25-angelica-mule-mule-2.jpg"
+    "../../images/timeline/2020-01-25-angelica-mule-mule-1.jpg",
+    "../../images/timeline/2020-01-25-angelica-mule-mule-2.jpg"
   ),
   id = "2020-01-25-angelica-mule-mule"
 )
@@ -250,8 +260,8 @@ Tomando mule na `r criar_link("Mule Mule Muleria", url = "https://mulemule.com.b
 ```{r}
 criar_slideshow(
   c(
-    "../../../images/timeline/2020-01-24-angelica-tonkotsu-1.jpg",
-    "../../../images/timeline/2020-01-24-angelica-tonkotsu-2.jpg"
+    "../../images/timeline/2020-01-24-angelica-tonkotsu-1.jpg",
+    "../../images/timeline/2020-01-24-angelica-tonkotsu-2.jpg"
   ),
   id = "2020-01-24-angelica-tonkotsu"
 )
@@ -269,8 +279,8 @@ Melhor Ramen que já comi (Tonkotsuramen, nos Jardins).
 ```{r}
 criar_slideshow(
   c(
-    "../../../images/timeline/2020-01-11-angelica-drosophyla-1.jpg",
-    "../../../images/timeline/2020-01-11-angelica-drosophyla-2.jpg"
+    "../../images/timeline/2020-01-11-angelica-drosophyla-1.jpg",
+    "../../images/timeline/2020-01-11-angelica-drosophyla-2.jpg"
   ),
   id = "2020-01-11-angelica-drosophyla"
 )
@@ -284,7 +294,7 @@ Conhecendo juntinhos o `r criar_link("Drosophyla bar", url = "")`.
 
 <div class="timeline-item" date-is='7 de janeiro'>
 
-<img src = "../../../images/timeline/2020-01-07-angelica-etto.jpg">
+<img src = "../../images/timeline/2020-01-07-angelica-etto.jpg">
 
 
 
@@ -296,7 +306,7 @@ Jantar na melhor companhia no restaurante `r criar_link("Etto", url = "http://ww
 
 <div class="timeline-item" date-is='6 de janeiro'>
 
-<img src = "../../../images/timeline/2020-01-06-summer-sofa.jpg">
+<img src = "../../images/timeline/2020-01-06-summer-sofa.jpg">
 
 Sério que você veio até aqui?
 
