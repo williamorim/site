@@ -1,8 +1,8 @@
 ---
 title: Momentos de 2020
-description: "Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, da minha com certeza. Mas que teve seus momentos."
+description: "Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi. Mas que também teve companherismo, risadas, maratona de The Office e muito amor."
 author:  William Amorim
-date: 2020-12-24
+date: "`r Sys.Date()`"
 ---
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
@@ -11,8 +11,10 @@ knitr::opts_chunk$set(
   warning = FALSE
 )
 
-source("../utils.R")
+source("../../utils.R")
 ```
+
+Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi. Mas que também teve companherismo, risadas, maratona de The Office e muito amor.
 
 <!-- --------------------- -->
 
@@ -80,6 +82,16 @@ Amor em tempos de pandemia.
 <img src = "../../../images/timeline/2020-08-12-fallguys.jpg">
 
 Primeiro lugar no Fall Guys: a maior conquista do ano.
+
+</div>
+
+<!-- --------------------- -->
+
+<div class="timeline-item" date-is='17 de julho'>
+
+<img src = "../../../images/blog/what-remains-1.jpg">
+
+Melhor jogo que joguei em 2020! Escrevi um textinho `r criar_link("aqui", url = "https://wamorim.com/blog/2020-12-27-what-remains/what-remains/")`.
 
 </div>
 
