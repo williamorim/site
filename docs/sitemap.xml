@@ -4,12 +4,32 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/livro/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-12-28-pequeno-manual-antirracista/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/recomenda%C3%A7%C3%A3o/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,17 +53,7 @@
   </url>
   
   <url>
-    <loc>/tags/recomenda%C3%A7%C3%A3o/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2020-12-27-what-remains/what-remains/</loc>
+    <loc>/blog/2020-12-27-what-remains/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,7 +63,7 @@
   </url>
   
   <url>
-    <loc>/blog/2020-12-23-skate/skate/</loc>
+    <loc>/blog/2020-12-23-skate/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   

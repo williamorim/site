@@ -6,22 +6,31 @@
     <description>Recent content in Tags on William Amorim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>jogos</title>
-      <link>/tags/jogos/</link>
-      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <title>livro</title>
+      <link>/tags/livro/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/jogos/</guid>
+      <guid>/tags/livro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recomendação</title>
       <link>/tags/recomenda%C3%A7%C3%A3o/</link>
-      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/recomenda%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jogos</title>
+      <link>/tags/jogos/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jogos/</guid>
       <description></description>
     </item>
     
