@@ -1,0 +1,127 @@
+---
+author: William Amorim
+date: "2021-01-01"
+description: Até agora...
+tags:
+- jogos
+title: Meu top 10 jogos
+---
+
+```{r, include = FALSE}
+source("../utils.R")
+```
+
+O objetivo deste top 10 é poder recriá-lo de tempos em tempos e ver a minha opinião mudando ao longo dos anos (e com o descubrimento de novos jogos).
+
+Resolvi usar três critérios que consigo mensurar (para poder comparar os jogos) e fazer uma pequena resenha explicando o porquê cada jogo está aqui. Os três critérios, que vão variar de 1 a 5, são:
+
+**História**: o quanto a história me cativou e permeneceu comigo após o fim do jogo.
+
+**Imersão**: o quanto o jogo conseguiu me levar pra dentro do *mundinho*.
+
+**Jogabilidade**: o quanto é/foi divertido jogar o jogo, como passatempo.
+
+Apenas um *disclaimer*: esses três critérios server apenas para comparar esses 10 jogos entre eles. A nota 1 em imersão, por exemplo, não quer dizer que a imersão do jogo é péssima. Quer dizer que, entre esses jogos, a imersão dele é a pior.
+
+### 10 - Civilization VI
+
+| | |
+|---|---|
+| História:  | N/A |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+Civilization é um grande jogo de tabuleiro virtual e está aqui por eu adorar jogos de estratégia. Com milhões de caminhos e escolhas ao longo da partida, é do tipo de jogo que você passa horas jogando sem perceber o tempo passar.
+
+Duas observações:
+
+- Especifiquei aqui o sexto (e até então único) jogo da série porque foi o único que joguei até agora.
+
+- É um pouco injusto comparar a imersão do Civilization com a dos outros jogos, porque você não está controlando um personagem assim como nos outros (embora, na prática, você esteja no papel de um).
+
+### 9 - The Lost World: Jurassic Park
+
+| | |
+|---|---|
+| História:  | 🎮  |
+| Imersão:  | 🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮  |
+
+### 8 - The Last of us
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮  |
+
+### 7 - Resident Evil 3
+
+| | |
+|---|---|
+| História:  | 🎮🎮  |
+| Imersão:  | 🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮  |
+
+### 6 - To the Moon
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮🎮  |
+| Imersão:  | 🎮  |
+| Jogabilidade:  | 🎮  |
+
+### 5 - What Remains of Edith Finch
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮  |
+
+### 4 - Skyrim
+
+| | |
+|---|---|
+| História:  | 🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+### 3 - Bioshock
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮  |
+
+### 2 - Life is Strange
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮  |
+
+### 1 - A série Half-Life
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+
+ 
+
+ 
+
+
+criar_link("Djamila Ribeiro", "https://www.instagram.com/djamilaribeiro1/?hl=pt-br")`
+ antirracista.
+
+<img src = "../../images/blog/pequeno-manual-antirracista.jpg" style = "margin: auto; display: block; width: 50%;">
+
+
+
+
