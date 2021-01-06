@@ -25,27 +25,27 @@ Apenas um *disclaimer*: esses três critérios server apenas para comparar esses
 
 ### 10 - Civilization VI
 
+<img src = "../../images/blog/civilization-vi.jpg" style = "margin: auto; display: block; width: 99%;">
+
 | | |
 |---|---|
 | História:  | N/A |
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮🎮🎮  |
 
-Civilization é um grande jogo de tabuleiro virtual e está aqui por eu adorar jogos de estratégia. Com milhões de caminhos e escolhas ao longo da partida, é do tipo de jogo que você passa horas jogando sem perceber o tempo passar.
+Jogo de tabuleiro sem tabuleiro não é golpe e por isso Civilization inicia o meu top 10. Com milhões de caminhos e escolhas ao longo da partida, é do tipo de jogo que você passa horas jogando sem perceber o tempo passar.
 
-Duas observações:
-
-- Especifiquei aqui o sexto (e até então único) jogo da série porque foi o único que joguei até agora.
-
-- É um pouco injusto comparar a imersão do Civilization com a dos outros jogos, porque você não está controlando um personagem assim como nos outros (embora, na prática, você esteja no papel de um).
+Uma observação: só joguei o Civilization VI, por isso especifiquei o sexto jogo aqui e não a série toda.
 
 ### 9 - The Lost World: Jurassic Park
 
 | | |
 |---|---|
 | História:  | 🎮  |
-| Imersão:  | 🎮🎮  |
+| Imersão:  | 🎮  |
 | Jogabilidade:  | 🎮🎮🎮🎮  |
+
+Nessa lista tem jogo velho, tem jogo de Mega Drive e tem jogo do meu filme ruim favorito. E *The Lost World: Jurassic Park* é todos eles. O jogo tem co-op, tem um quase mundo aberto, também tem um plot horrível no qual você captura e mata animais inocentes, mas é bem diverto.
 
 ### 8 - The Last of us
 
@@ -55,21 +55,27 @@ Duas observações:
 | Imersão:  | 🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮  |
 
+Joguei The Last of us duas vezes e na primeira achei um jogo bom em tudo, mas que não era marcante em nada. Na segunda vez, joguei no modo *survivor* e é outro jogo. Mas 8º lugar tá bom porque tem uma barriga gitante no primeiro ato.
+
 ### 7 - Resident Evil 3
 
 | | |
 |---|---|
 | História:  | 🎮🎮  |
-| Imersão:  | 🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮  |
+
+Se nem o Brad Pitt conseguiu fazer uma história de apocalipse zumbi melhor, Resident Evil 3 precisa estar na lista. Ponto a mais de imersão pela história paralela contada nos *files*.
 
 ### 6 - To the Moon
 
 | | |
 |---|---|
 | História:  | 🎮🎮🎮🎮🎮  |
-| Imersão:  | 🎮  |
+| Imersão:  | 🎮🎮  |
 | Jogabilidade:  | 🎮  |
+
+História espetacular, que fica na cabeça uma semana e no coração pra sempre.
 
 ### 5 - What Remains of Edith Finch
 
@@ -79,6 +85,8 @@ Duas observações:
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮  |
 
+Uma ode à narrativa, *What Remains of Edith Finch* conta com maestria uma história maravilhosa. Jogo para terminar e bater palmas. Escrevi mais sobre ele `r criar_link("aqui", "https://wamorim.com/blog/2020-12-27-what-remains/")`.
+
 ### 4 - Skyrim
 
 | | |
@@ -86,6 +94,8 @@ Duas observações:
 | História:  | 🎮🎮  |
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+O misto perfeito de imersão e jobabilidade é jogar um mundo aberto gigante e não querer dar *fast travel*. Só não está mais na frente porque eu escrevi Skyrim aqui e meu editor de texto começou a bugar.
 
 ### 3 - Bioshock
 
@@ -95,6 +105,8 @@ Duas observações:
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮  |
 
+Ambientação incrível, trilha sonora impecável, as histórias paralelas contadas nos diários de áudio, um FPS muito divertido e o *plot twist* sensasional justificam esse bronze pra *Bioshock*.
+
 ### 2 - Life is Strange
 
 | | |
@@ -102,6 +114,8 @@ Duas observações:
 | História:  | 🎮🎮🎮🎮🎮  |
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮  |
+
+*Life is Strange* e o *prequel* *Life is Strange: Before the Storm* formam uma história perfeita (e uma trilha sonora também). Sempre que termino uma boa história, fico com a sensação de ter perdido amigos. Quando terminei o *Before the Storm*, o sentimento foi o mesmo de terminar um relacionamento.
 
 ### 1 - A série Half-Life
 
@@ -111,16 +125,8 @@ Duas observações:
 | Imersão:  | 🎮🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮🎮🎮  |
 
+Minha série de jogos preferida, foi o que me fez virar fã de histórias (pós-)apocalípticas. O sentimento que o capítulo *Highway 17* do *Half-Life 2* gerou em mim virou meu *benchmark* de imersão. FPS extramamente divertido, com uma história meio confusa, mas tem 1000 vídeos no YouTube explicando. E um grande e educado *vai se foder* pra Valve por ter acabado o último jogo com um *cliffhanger* e estar há mais de 13 anos sem lançar uma continuação.
 
- 
-
- 
-
-
-criar_link("Djamila Ribeiro", "https://www.instagram.com/djamilaribeiro1/?hl=pt-br")`
- antirracista.
-
-<img src = "../../images/blog/pequeno-manual-antirracista.jpg" style = "margin: auto; display: block; width: 50%;">
 
 
 
