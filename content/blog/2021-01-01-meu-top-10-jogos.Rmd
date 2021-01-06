@@ -25,11 +25,11 @@ Apenas um *disclaimer*: esses três critérios server apenas para comparar esses
 
 ### 10 - Civilization VI
 
-<img src = "../../images/blog/civilization-vi.jpg" style = "margin: auto; display: block; width: 99%;">
+<img src = "../../images/blog/civilization-vi.jpg" style = "margin: auto; display: block; width: 85%;">
 
 | | |
 |---|---|
-| História:  | N/A |
+| História:  | 🎮 |
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮🎮🎮  |
 
@@ -38,6 +38,8 @@ Jogo de tabuleiro sem tabuleiro não é golpe e por isso Civilization inicia o m
 Uma observação: só joguei o Civilization VI, por isso especifiquei o sexto jogo aqui e não a série toda.
 
 ### 9 - The Lost World: Jurassic Park
+
+<img src = "../../images/blog/jurassic-park.jpg" style = "margin: auto; display: block; width: 85%;">
 
 | | |
 |---|---|
@@ -49,6 +51,8 @@ Nessa lista tem jogo velho, tem jogo de Mega Drive e tem jogo do meu filme ruim 
 
 ### 8 - The Last of us
 
+<img src = "../../images/blog/the-last-of-us.png" style = "margin: auto; display: block; width: 85%;">
+
 | | |
 |---|---|
 | História:  | 🎮🎮🎮🎮  |
@@ -59,15 +63,19 @@ Joguei The Last of us duas vezes e na primeira achei um jogo bom em tudo, mas qu
 
 ### 7 - Resident Evil 3
 
+<img src = "../../images/blog/resident-evil-3.jpg" style = "margin: auto; display: block; width: 85%;">
+
 | | |
 |---|---|
 | História:  | 🎮🎮  |
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮  |
 
-Se nem o Brad Pitt conseguiu fazer uma história de apocalipse zumbi melhor, Resident Evil 3 precisa estar na lista. Ponto a mais de imersão pela história paralela contada nos *files*.
+Se nem o Brad Pitt conseguiu fazer uma história de apocalipse zumbi melhor, Resident Evil 3 precisa estar na lista. Ponto a mais de imersão pela história paralela contada nos *files*. Não joguei o remake ainda, mas foi bom para conseguir uma imagem show.
 
 ### 6 - To the Moon
+
+<img src = "../../images/blog/to-the-moon.jpg" style = "margin: auto; display: block; width: 85%;">
 
 | | |
 |---|---|
@@ -79,6 +87,8 @@ História espetacular, que fica na cabeça uma semana e no coração pra sempre.
 
 ### 5 - What Remains of Edith Finch
 
+<img src = "../../images/blog/what-remains-2.jpg" style = "margin: auto; display: block; width: 85%;">
+
 | | |
 |---|---|
 | História:  | 🎮🎮🎮🎮🎮  |
@@ -88,6 +98,8 @@ História espetacular, que fica na cabeça uma semana e no coração pra sempre.
 Uma ode à narrativa, *What Remains of Edith Finch* conta com maestria uma história maravilhosa. Jogo para terminar e bater palmas. Escrevi mais sobre ele `r criar_link("aqui", "https://wamorim.com/blog/2020-12-27-what-remains/")`.
 
 ### 4 - Skyrim
+
+<img src = "../../images/blog/skyrim.jpg" style = "margin: auto; display: block; width: 85%;">
 
 | | |
 |---|---|
@@ -99,15 +111,19 @@ O misto perfeito de imersão e jobabilidade é jogar um mundo aberto gigante e n
 
 ### 3 - Bioshock
 
+<img src = "../../images/blog/bioshock.jpg" style = "margin: auto; display: block; width: 85%;">
+
 | | |
 |---|---|
 | História:  | 🎮🎮🎮🎮🎮  |
 | Imersão:  | 🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮  |
 
-Ambientação incrível, trilha sonora impecável, as histórias paralelas contadas nos diários de áudio, um FPS muito divertido e o *plot twist* sensasional justificam esse bronze pra *Bioshock*.
+A ambientação incrível, a trilha sonora impecável, as histórias paralelas contadas nos diários de áudio, um FPS muito divertido e o *plot twist* sensasional justificam esse bronze pra *Bioshock*.
 
 ### 2 - Life is Strange
+
+<img src = "../../images/blog/life-is-strange.png" style = "margin: auto; display: block; width: 85%;">
 
 | | |
 |---|---|
@@ -119,11 +135,15 @@ Ambientação incrível, trilha sonora impecável, as histórias paralelas conta
 
 ### 1 - A série Half-Life
 
+<img src = "../../images/blog/half-life-gman.jpg" style = "margin: auto; display: block; width: 85%;">
+
 | | |
 |---|---|
 | História:  | 🎮🎮🎮  |
 | Imersão:  | 🎮🎮🎮🎮🎮  |
 | Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+
 
 Minha série de jogos preferida, foi o que me fez virar fã de histórias (pós-)apocalípticas. O sentimento que o capítulo *Highway 17* do *Half-Life 2* gerou em mim virou meu *benchmark* de imersão. FPS extramamente divertido, com uma história meio confusa, mas tem 1000 vídeos no YouTube explicando. E um grande e educado *vai se foder* pra Valve por ter acabado o último jogo com um *cliffhanger* e estar há mais de 13 anos sem lançar uma continuação.
 
