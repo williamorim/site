@@ -3,6 +3,7 @@ title: Momentos de 2020
 description: "Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi. Mas que também teve companherismo, risadas, maratona de The Office e muito amor."
 author:  William Amorim
 date: "`r Sys.Date()`"
+image: images/timeline/2020-11-17-sophia-hi-five.jpg
 ---
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(

@@ -4,7 +4,22 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/timeline/</loc>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/timeline/2020/</loc>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/timeline/2021/</loc>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +43,7 @@
   </url>
   
   <url>
-    <loc>/timeline/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/livros/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/timeline/2020/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/timeline/2021/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   

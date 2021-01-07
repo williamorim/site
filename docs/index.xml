@@ -6,20 +6,11 @@
     <description>Recent content on William Amorim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Meu top 10 jogos</title>
-      <link>/blog/2021-01-01-meu-top-10-jogos/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021-01-01-meu-top-10-jogos/</guid>
-      <description>O objetivo deste top 10 é poder recriá-lo de tempos em tempos e ver a minha opinião mudando ao longo dos anos (e com o descubrimento de novos jogos).</description>
-    </item>
-    
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Momentos de 2020</title>
       <link>/timeline/2020/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/timeline/2020/</guid>
       <description>Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi.</description>
@@ -28,10 +19,19 @@
     <item>
       <title>Momentos de 2021</title>
       <link>/timeline/2021/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/timeline/2021/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Meu top 10 jogos</title>
+      <link>/blog/2021-01-01-meu-top-10-jogos/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021-01-01-meu-top-10-jogos/</guid>
+      <description>O objetivo deste top 10 é poder recriá-lo de tempos em tempos e ver a minha opinião mudando ao longo dos anos (e com o descubrimento de novos jogos).</description>
     </item>
     
     <item>

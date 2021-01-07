@@ -3,11 +3,17 @@
     {{ range $paginator.Pages }}
 
         <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
+            {{ if (isset .Params "image") }}
+            <div style = "float: right; width: 40%;">
+                <img src = "../{{ .Params.image }}" width = "220px">
+            </div>
+            {{ end }}
+            
             <div class="post-title-list">
                 <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 </h3>
             </div>
-            <div class="post-content">
+            <div class="post-content post-desc">
                 <div class="p_part"><p>{{ .Params.description }}</p></div>
             </div>
             <div class="post-footer">

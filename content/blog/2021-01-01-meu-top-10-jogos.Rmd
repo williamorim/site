@@ -1,7 +1,8 @@
 ---
 author: William Amorim
 date: "2021-01-01"
-description: Até agora...
+description: Até o momento.
+image: images/blog/controle-video-game.jpg
 tags:
 - jogos
 title: Meu top 10 jogos

@@ -398,6 +398,10 @@ a:active {
     font-size: 16px;
 }
 
+.post .post-desc {
+  width: 50%;
+}
+
 .post .post-content img {
     max-width: 100%;
 }

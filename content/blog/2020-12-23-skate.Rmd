@@ -2,6 +2,7 @@
 author: William Amorim
 date: "2020-12-23"
 description: Uma opinião cínica.
+image: images/blog/skate.jpg
 tags:
 - opinião
 title: Skate

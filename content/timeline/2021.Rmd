@@ -3,6 +3,7 @@ title: Momentos de 2021
 description: "Em construção..."
 author:  William Amorim
 date: "`r Sys.Date()`"
+image: images/em_construcao.png
 ---
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
