@@ -5,4 +5,6 @@ author: William Amorim
 id: "blog"
 ---
 
-Um diário disfarçado de blog.
+Este blog é pessoal, um diário disfarçado.
+
+Para ver meus posts no blog sobre R e Ciência de Dados, no blog da Curso-R, [clique aqui]().

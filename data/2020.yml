@@ -1,0 +1,5 @@
+timeline:
+  title: Momentos de 2020
+  description: "Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi. Mas que também teve companherismo, risadas, maratona de The Office e muito amor."
+  timeline_item :
+    - date: 16 de dezembro

@@ -40,7 +40,7 @@ htmltools::a(
 ```
 </center>
 
-A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é simplificar a Ciência de Dados para todas as pessoas, independentemente da área de formação.
+A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é descomplicar a Ciência de Dados para todas as pessoas, independentemente da área de formação.
 
 A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em [Shiny](https://shiny.rstudio.com/gallery/) e *web scraping*.
 
@@ -60,9 +60,16 @@ Cursos de programação em R e Ciência de Dados que ministro atualmente pela Cu
 
 ### Trabalhos
 
-A seguir alguns aplicativos Shiny que contrui:
+A seguir alguns trabalhos que realizei nos últimos anos:
 
 - [Dashboard para dados de COVID na Irlanda](https://hamilton-institute.github.io/docs/dashboard.html)
-<br><span style = "font-size: 10pt; margin-left: 10px;">Hamilton Institute, Maynooth University</span>
+<br><span class = "obs">Hamilton Institute, Maynooth University</span>
 
 - [Painel analítico do Instituto Sou da Paz](https://sdpa.shinyapps.io/sdpa/)
+<br><span class = "obs">Instituto Sou da Paz, São Paulo</span>
+
+<!-- - [Desenvolvimento do site da Curso-R]() -->
+<!-- <br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span> -->
+
+<!-- - [Desenvolvimento do blog da Curso-R]() -->
+<!-- <br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span> -->

@@ -30,7 +30,8 @@
 }
 
 .timeline-item img {
-  width: 50%;
+  width: 300px;
+  height: 300px;
   border-radius: 20px;
 }
 
@@ -153,4 +154,22 @@
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
+}
+
+
+.obs {
+  font-size: 0.8em; 
+  margin-left: 10px;
+}
+
+.intro {
+  margin: 20px;
+  padding: 0 0 10px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.intro a {
+  text-decoration: none;
+  color: var(--link-color);
+  font-weight: 700;
 }
