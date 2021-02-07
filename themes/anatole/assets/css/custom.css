@@ -46,10 +46,22 @@
   font-size: 0.8rem;
 }
 
-.timeline-item img {
+.polaroid {
   width: 300px;
-  height: 300px;
-  border-radius: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.foto {
+  overflow: hidden;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.descricao {
+  text-align: center;
+  padding: 5px 20px;
 }
 
 .timeline-item::before {
@@ -86,7 +98,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-  width: 50%;
+  width: 300px;
   position: relative;
 }
 

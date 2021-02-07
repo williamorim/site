@@ -1,17 +1,12 @@
 ---
 title: Momentos de 2021
-description: "Em construção..."
-author:  William Amorim
+description: "Esperando a vacina..."
 date: "`r Sys.Date()`"
-image: images/em_construcao.png
+image: "em_construcao.png"
+timelineItem:
+
+  - id: 2021-02-07-sophia-patinhas
+    date: 7 de fevereiro
+    fotos: ["2021-02-07-sophia-patinhas"]
+    descricao: "Esperando a vacina..."
 ---
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(
-  echo = FALSE,
-  message = FALSE,
-  warning = FALSE
-)
-
-source("../utils.R")
-```
-

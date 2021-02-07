@@ -4,12 +4,48 @@
             <div class="post-title">
                 <h3>{{ .Title }}</h3>
             </div>
-
-            {{ .Content }}
+            <p>{{ .Description }}</p>
             
-            
-
-        </div>
+            {{ range .Params.timelineItem }}
+                <div class="timeline-item" date-is={{ .date }}>
+                {{if eq (len .fotos) 1}}
+                    <div class = "polaroid">
+                        <div class = "foto">
+                            <img src = "/images/timeline/{{ index .fotos 0 }}">
+                        </div>
+                        <div class = "descricao">
+                            <p>{{ .descricao | markdownify}}</p>
+                        </div> 
+                    </div>
+                {{ else }}
+                    {{ $fotos := .fotos }}
+                    {{ $descricao := .descricao }}
+                    <div id="{{ .id }}" style = "width: 300px;">
+                      <div class="slideshow-container">
+                          {{ range seq 0 (add (len .fotos) -1) }}
+                            <div class="mySlides fade">
+                              <div class="numbertext">{{ add . 1 }} / 2</div>
+                                  <div class = "polaroid">
+                                    <div class = "foto">
+                                        <img src = "/images/timeline/{{ index $fotos . }}">
+                                    </div>
+                                    <div class = "descricao">
+                                        <p>{{ $descricao | markdownify}}</p>
+                                    </div> 
+                                </div>
+                            </div>
+                          {{ end }}
+                        <a class="prev" onclick="plusSlides(-1, &quot;{{ .id }}&quot;)">&#10094;</a>
+                        <a class="next" onclick="plusSlides(+1, &quot;{{ .id }}&quot;)">&#10095;</a>
+                      </div>
+                      <div style="text-align:center;">
+                        <span class="dot active" onclick="currentSlide(1, &quot;{{ .id }}&quot;)"></span>
+                        <span class="dot" onclick="currentSlide(2, &quot;{{ .id }}&quot;)"></span>
+                      </div>
+                    </div>
+                {{ end }}
+                </div>
+            {{ end }}
         <div class="post-footer">
             <div class="info">
                 {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}

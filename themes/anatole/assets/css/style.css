@@ -411,6 +411,7 @@ a:active {
 .post .post-footer {
     padding: 0 0 10px 0;
     border-bottom: 1px solid var(--border-color);
+    clear: both;
 }
 
 .post .post-footer .meta {
