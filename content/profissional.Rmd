@@ -63,7 +63,7 @@ Cursos de programação em R e Ciência de Dados que ministro atualmente pela Cu
 A seguir alguns trabalhos que realizei nos últimos anos.
 
 
-#### Hamilton Institute, Maynooth University (Irlanda)
+#### &#128187; Hamilton Institute, Maynooth University (Irlanda)
 
 Trabalhei com a equipe do Instituto Hamilton no desenvolvimento e manutenção [aplicativos em Shiny para análise de dados de COVID-19](https://www.hamilton.ie/covid19/dashboard.html). Também fiquei responsável pela manutenção do [blog utilizado para divulgação dos resultados do projeto](https://www.hamilton.ie/covid19/).
 
@@ -75,7 +75,7 @@ Atividades realizadas:
 
 - Implementação de melhorias na página do projeto (construída usando o pacote [`{distill}`](https://rstudio.github.io/distill/))
 
-#### Instituto Sou da Paz
+#### &#128187; Instituto Sou da Paz
 
 Desenvolvi em conjunto da equipe do Instituto Sou da Paz o aplicativo [Sou da Paz Analisa](https://sdpa.shinyapps.io/sdpa/), uma ferramenta que centraliza, analisa e disponibiliza dados de criminalidade para o Estado de São Paulo.
 
@@ -87,7 +87,7 @@ Algumas reportagens sobre a ferramenta:
 
 - [Portal Veja SP](https://vejasp.abril.com.br/cidades/instituto-sou-da-paz-mapas-violencia-sp/)
 
-#### Projetos internos da Curso-R
+#### &#128187; Projetos internos da Curso-R
 
 - [Desenvolvimento do site da Curso-R](https://curso-r.com/)
 <br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span>

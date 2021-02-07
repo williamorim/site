@@ -1,10 +1,6 @@
 {{ define "main" }}
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Params.id) }}
     
-    <div class = "intro">
-        {{ .Content }}    
-    </div>
-    
     {{ range $paginator.Pages }}
     
         <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">

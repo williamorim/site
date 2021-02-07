@@ -7,4 +7,4 @@ id: "blog"
 
 Este blog é pessoal, um diário disfarçado.
 
-Para ver meus posts no blog sobre R e Ciência de Dados, no blog da Curso-R, [clique aqui]().
+Para ver meus posts no blog sobre R e Ciência de Dados, no blog da Curso-R, [clique aqui](https://blog.curso-r.com/search/?s=william).
