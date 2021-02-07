@@ -1,3 +1,20 @@
+/* Geral */
+
+.post .post-content h3 {
+  margin-top: 40px;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.post .post-content h4 {
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+/* Sidebar */
+
+
 .imagem-padrao {
   border-radius: 10px;
   width: 80%;

@@ -13,6 +13,13 @@
         integrity="{{ $secureJS.Data.Integrity }}"
         crossorigin="anonymous"></script>
 
+{{ $js := resources.Get "js/links.js" }}
+{{ $secureJS := $js |  resources.Minify }}
+<script type="text/javascript"
+        src="{{ $secureJS.Permalink }}"
+        integrity="{{ $secureJS.Data.Integrity }}"
+        crossorigin="anonymous"></script>
+
 {{- partial "medium-zoom.html" . -}}
 {{- partial "math.html" . -}}
 {{- template "_internal/google_analytics_async.html" . -}}

@@ -60,16 +60,37 @@ Cursos de programação em R e Ciência de Dados que ministro atualmente pela Cu
 
 ### Trabalhos
 
-A seguir alguns trabalhos que realizei nos últimos anos:
+A seguir alguns trabalhos que realizei nos últimos anos.
 
-- [Dashboard para dados de COVID na Irlanda](https://hamilton-institute.github.io/docs/dashboard.html)
-<br><span class = "obs">Hamilton Institute, Maynooth University</span>
 
-- [Painel analítico do Instituto Sou da Paz](https://sdpa.shinyapps.io/sdpa/)
-<br><span class = "obs">Instituto Sou da Paz, São Paulo</span>
+#### Hamilton Institute, Maynooth University (Irlanda)
 
-<!-- - [Desenvolvimento do site da Curso-R]() -->
-<!-- <br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span> -->
+Trabalhei com a equipe do Instituto Hamilton no desenvolvimento e manutenção [aplicativos em Shiny para análise de dados de COVID-19](https://www.hamilton.ie/covid19/dashboard.html). Também fiquei responsável pela manutenção do [blog utilizado para divulgação dos resultados do projeto](https://www.hamilton.ie/covid19/).
 
-<!-- - [Desenvolvimento do blog da Curso-R]() -->
-<!-- <br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span> -->
+Atividades realizadas:
+
+- Organização dos códigos e construção da identidade visual dos [aplicativos Shiny](https://www.hamilton.ie/covid19/dashboard.html).
+
+- Desenvolvimento do [framework de atualização automática](https://github.com/hamilton-institute/hamiltonCovid19/actions) dos dados dos aplicativos utilizando o Github Actions.
+
+- Implementação de melhorias na página do projeto (construída usando o pacote [`{distill}`](https://rstudio.github.io/distill/))
+
+#### Instituto Sou da Paz
+
+Desenvolvi em conjunto da equipe do Instituto Sou da Paz o aplicativo [Sou da Paz Analisa](https://sdpa.shinyapps.io/sdpa/), uma ferramenta que centraliza, analisa e disponibiliza dados de criminalidade para o Estado de São Paulo.
+
+Algumas reportagens sobre a ferramenta:
+
+- [Reportagem no SPTV](https://g1.globo.com/sp/sao-paulo/noticia/2021/01/26/dez-delegacias-com-mais-registros-de-roubos-durante-a-pandemia-ficam-nas-zonas-sul-e-leste-de-sp.ghtml)
+
+- [Matéria no portal *A Tribuna*](https://www.atribuna.com.br/cidades/plataforma-fornece-localiza%C3%A7%C3%A3o-de-%C3%ADndices-criminais-da-baixada-santista-1.139379)
+
+- [Portal Veja SP](https://vejasp.abril.com.br/cidades/instituto-sou-da-paz-mapas-violencia-sp/)
+
+#### Projetos internos da Curso-R
+
+- [Desenvolvimento do site da Curso-R](https://curso-r.com/)
+<br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span>
+
+- [Desenvolvimento do blog da Curso-R](https://blog.curso-r.com/)
+<br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span>
