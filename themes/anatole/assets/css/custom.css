@@ -12,6 +12,11 @@
   margin-bottom: 0;
 }
 
+iframe {
+  display: block;
+  margin: auto;
+}
+
 /* Sidebar */
 
 
