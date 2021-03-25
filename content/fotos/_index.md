@@ -1,6 +1,6 @@
 ---
 aliases:
-- timeline
+- fotos
 author: William Amorim
-id: "timeline"
+id: "fotos"
 ---

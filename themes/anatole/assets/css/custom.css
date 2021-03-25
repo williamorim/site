@@ -34,15 +34,15 @@
   margin-bottom: 20px;
 }
 
-/* timeline */
+/* album */
 
-.timeline-item {
+.album-item {
   padding: 3em 2em 2em;
   position: relative;
-  border-left: 2px solid var(--timeline-color);
+  border-left: 2px solid var(--album-color);
 }
 
-.timeline-item p {
+.album-item p {
   font-size: 0.8rem;
 }
 
@@ -64,7 +64,7 @@
   padding: 5px 20px;
 }
 
-.timeline-item::before {
+.album-item::before {
   content: attr(date-is);
   position: absolute;
   left: 2em;
@@ -76,7 +76,7 @@
   font-size: 1rem;
 }
 
-.timeline-item::after {
+.album-item::after {
   width: 10px;
   height: 10px;
   display: block;
@@ -85,13 +85,13 @@
   left: -7px;
   border-radius: 10px;
   content: "";
-  border: 2px solid var(--timeline-color);
+  border: 2px solid var(--album-color);
   background: white;
 }
 
-.timeline-item:last-child {
-  -o-border-image: linear-gradient(to bottom, var(--timeline-color) 60%, rgba(0, 0, 0, 0)) 1 100%;
-     border-image: linear-gradient(to bottom, var(--timeline-color) 60%, rgba(0, 0, 0, 0)) 1 100%;
+.album-item:last-child {
+  -o-border-image: linear-gradient(to bottom, var(--album-color) 60%, rgba(0, 0, 0, 0)) 1 100%;
+     border-image: linear-gradient(to bottom, var(--album-color) 60%, rgba(0, 0, 0, 0)) 1 100%;
 }
 
 /* Slideshow */

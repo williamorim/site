@@ -15,7 +15,7 @@
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
     scroll-padding-top: 100px;
-    --timeline-color: purple;
+    --album-color: purple;
     --hover-color: purple;
     --link-color: purple;
 }
@@ -34,7 +34,7 @@ html[data-theme='dark'] {
     --tag-color: rgb(191, 191, 191);
     --blockquote-text-color: #808080;
     --blockquote-border-color: #424242;
-    --timeline-color: #bb50bb;
+    --album-color: #bb50bb;
     --hover-color: #bb50bb;
     --link-color: #bb50bb;}
 

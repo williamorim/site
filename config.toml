@@ -25,7 +25,7 @@ keywords = ["william amorim"]
 favicon = "favicons/"
 customCss = ["css/custom.css"]
 customJs = ["js/slideshow.js"] 
-mainSections = ["blog", "contos", "timeline"]
+mainSections = ["blog", "contos", "fotos"]
 doNotLoadAnimations = false
 
 ## Math settings
@@ -51,10 +51,10 @@ url = "https://github.com/williamorim"
   url = "/"
   
   [[menu.main]]
-  name = "Timeline"
+  name = "Fotos"
   weight = 200
-  identifier = "timeline"
-  url = "/timeline/"
+  identifier = "fotos"
+  url = "/fotos/"
 
   [[menu.main]]
   name = "Blog"

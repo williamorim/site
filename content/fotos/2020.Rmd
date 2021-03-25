@@ -1,9 +1,9 @@
 ---
 title: Momentos de 2020
-date: "2021-02-07"
+date: "`r Sys.Date()`"
 description: "Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi. Mas que também teve companherismo, risadas, maratona de The Office e muito amor."
 image: "2020-11-17-sophia-hi-five.jpg"
-timelineItem:
+albumItem:
 
   - id: 2020-12-16-angelica-natal
     date: 16 de dezembro
@@ -126,9 +126,3 @@ timelineItem:
     fotos: [2020-01-06-summer-sofa.jpg]
     descricao: "Sério que você veio até aqui?"
 ---
-
-<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
-<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
-
-
-

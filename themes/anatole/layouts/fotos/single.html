@@ -6,12 +6,12 @@
             </div>
             <p>{{ .Description }}</p>
             
-            {{ range .Params.timelineItem }}
-                <div class="timeline-item" date-is={{ .date }}>
+            {{ range .Params.albumItem }}
+                <div class="album-item" date-is={{ .date }}>
                 {{if eq (len .fotos) 1}}
                     <div class = "polaroid">
                         <div class = "foto">
-                            <img src = "/images/timeline/{{ index .fotos 0 }}">
+                            <img src = "/images/fotos/{{ index .fotos 0 }}">
                         </div>
                         <div class = "descricao">
                             <p>{{ .descricao | markdownify}}</p>
@@ -27,7 +27,7 @@
                               <div class="numbertext">{{ add . 1 }} / 2</div>
                                   <div class = "polaroid">
                                     <div class = "foto">
-                                        <img src = "/images/timeline/{{ index $fotos . }}">
+                                        <img src = "/images/fotos/{{ index $fotos . }}">
                                     </div>
                                     <div class = "descricao">
                                         <p>{{ $descricao | markdownify}}</p>

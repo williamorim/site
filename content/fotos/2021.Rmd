@@ -3,10 +3,10 @@ title: Momentos de 2021
 description: "Esperando a vacina..."
 date: "`r Sys.Date()`"
 image: "em_construcao.png"
-timelineItem:
+albumItem:
 
   - id: 2021-02-07-sophia-patinhas
     date: 7 de fevereiro
-    fotos: ["2021-02-07-sophia-patinhas"]
+    fotos: ["2021-02-07-sophia-patinhas.jpg"]
     descricao: "Esperando a vacina..."
 ---
