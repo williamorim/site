@@ -5,7 +5,7 @@ description: Um gol contra aos 45 do segundo tempo. Spoilers de toda a primeira 
 image: images/blog/wandavision.jpeg
 tags:
 - séries
-title: A frase que estragou WandaVision para mim
+title: A frase que estragou o final de WandaVision para mim
 ---
 
 ```{r, include = FALSE}
@@ -16,39 +16,41 @@ Eu tenho duas gatas, a Sophia e a Summer. Algum tempo atrás, tive que levar a S
 
 Ao chegar, percebi que a Summer ficou meio inquieta. Toda vez que eu precisei sair com a Sophia, eu voltei com a Sophia. Dessa vez não. Ela ficou cheirando e procurando pela casa, e eu imaginei o quanto seria triste se a Sophia tivesse ido para o céu dos gatos e eu nunca conseguiria explicar para a Summer o que tinha acontecido. Sempre que eu chegasse em casa, ela ia estar lá, na porta, com a expectativa da sua companheira voltar pra casa.
 
-Esse sentimento, uma mistura de melancolia, impotência e provavelmente mais um pouco de um tanto de coisa, é o que mais tem a capacidade de me deixar triste. 
+Esse sentimento, uma mistura de melancolia, impotência e provavelmente um pouco mais de um tanto de coisa, é o que mais tem a capacidade de me deixar triste. 
 
-Ainda bem que não era essa a realidade que eu estava e algumas horas depois a Summer e a Sophia já estavam juntas correndo uma atrás da outra.
+Ainda bem que não era essa a realidade em que eu estava e algumas horas depois a Summer e a Sophia já estavam juntas correndo uma atrás da outra.
 
-Não sei se esse sentimento tem um nome, mas já me deparei com ele algumas vezes na ficção. Nos jogos, [dois dos meus favoritos](https://wamorim.com/blog/2021-01-01-meu-top-10-jogos/) apelam para ele: To the Moon e Life is Strange.
+Não sei se esse sentimento tem um nome, mas já me deparei com ele algumas vezes na ficção. Nos jogos, eu o reconheci em [dois dos meus favoritos](https://wamorim.com/blog/2021-01-01-meu-top-10-jogos/): *To the Moon* e *Life is Strange*.
 
-Se você não se identificou com a história da Sophia e da Summer e não está entendendo bem de qual sentimento estou falando, existe um trecho de um episódio de Rick and Morty que, com um pouco de empatia, nos deixa com esse mesmo sentimento no final:
+Se você não se identificou com a história da Sophia e da Summer e nunca sentiu nada parecido com o que estou descrevendo, existe um trecho de um episódio de Rick and Morty que eu acho incrível, principalmente por ser uma espécie de *exemplo minimal* desse sentimento:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K8DaX0FFthc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Eu adoro essa cena porque para mim ela é uma espécie de *exemplo minimal* desse sentimento.
-
 Mas o que tudo isso tem a ver com WandaVision?
 
-Eu acredito que era exatamente esse sentimento que a primeira temporada estava querendo produzir na gente. E, se isso for verdade, eu acho que a série errou muito.
+Uma frase me fez acreditar que essa primeira temporada estava tentando produzir algo parecido com esse sentimento na gente. E, se realmente for isso, eu acho que a série errou muito.
 
-O que me fez começar a pensar nisso foi a frase *They'll never know what you sacrificed for them*, dita a Wanda pela personagem Monica Rambeau nos últimos momentos do último capítulo. 
+A frase foi *They'll never know what you sacrificed for them*, dita a Wanda pela personagem Monica Rambeau nos últimos momentos do último capítulo. 
 
-Essa frase me causou muita estranheza enquanto assistia. Para os moradores de Eastview, Wanda era a grande vilã da história. O que Wanda poderia ter sacrificado de tão grande para gerar a empatia daquelas pessoas (e a nossa)?
+Essa frase me causou muita estranheza enquanto assistia. Para os moradores de Eastview, Wanda era a grande vilã da história. E para mim a história era sobre uma pessoa em luto, um luto destrutivo e descontrolado, que terminava a temporada uma vilã ou pelo menos alguém com uma reputação que precisaria de muita assessoria de imprensa para arrumar. Estava achando ótimo até aí.
 
-É claro que Rambeau se referia aos filhos e ao Visão criados por Wanda e é aí que estão os problemas.
+Se o roteiro utilizou a frase da Monica para nos indicar que, naquele momento, devíamos estar sentindo empatia pela Wanda, então a série errou muito para mim.
 
-- O Visão foi remontado pelos militares e sua memória foi reestabelecida pelo WandaVision. Por que recuperar a memória dele?? Qual a justificativa agora para os dois não ficarem juntos ao final da série?
+Então, fiquei imaginando uma história diferente, em que eu realmente poderia ter terminado sentindo empatia. Não só empatia, mas também esse sentimento que Rick and Morty conseguiu emular em mim com um vídeo sem fala de 4 minutos.
 
-- Foi zero a empatia que senti pela Wanda quando ela destruiu os filhos junto com o resto da *falsa* Westview. Dois moleques que ela *conheceu* outro dia e que só ficaram fazendo *show off* de poderzinho. Entendo o argumento de que na cabeça dela tudo aquilo era real, mas infelizmente eu não empatizo com magia.
+Nasceram assim as opiniões no melhor estilo *não gostou? faz melhor então* que listo abaixo:
 
-- Mais sobre os filhos: por que eles foram inventados pela Wanda? Imagina o peso ao fim da série se eles fossem dois irmãos em um orfanato da cidade que ela e o Visão estavam tentando adotar antes do estralo. 
+- O Visão foi remontado pelos militares e sua memória foi reestabelecida pelo WandaVision. A pouca empatia que tive pela perda do Visão morreu aí para mim. Podiam ter deixado ele sem memória pelo menos.
+
+- Foi zero a empatia que senti pela Wanda quando ela destruiu os filhos junto com o resto da *falsa* Westview. Dois moleques que ela *conheceu* outro dia e que só ficaram fazendo *show off* de poderzinho. Entendo o argumento de que na cabeça dela tudo aquilo era real, mas foi muito pouco tempo de relação para quem estava assistindo.
+
+- Mais sobre os filhos: por que eles precisaram ser inventados pela Wanda? Imagina o peso ao fim da série se eles fossem dois irmãos em um orfanato da cidade que ela e o Visão estavam tentando adotar antes do estalo. 
 
 - Faltou tempo! Pela série, tudo parece acontecer em uma semana. Muito pouco tempo para a gente (que vive num mundo sem magia) acreditar nos laços afetivos da Wanda com a família que ela criou. Se é magia, por que não fazer o tempo dentro do hexágono passar diferente? Como teria um peso diferente se a Wanda tivesse vivido aquela vida por 100 anos e depois ter que sacrificá-la. Além disso, as cenas de passagem de época, a gravidez e o crescimento das crianças teriam muito mais significado em vez de ser apenas o roteirista esfregando a mão na nossa cara.
 
-Se WandaVision realmente tentou criar em 9 episódios o sentimento que os roteiristas de Rick and Morty mostraram que dá para fazer em 4 minutos (sem nenhuma fala), a série fracassou para mim. E na incapacidade de me sentir triste por ela, não consigo deixar de ver a Wanda como a vilã da história. 
+Sinceramente não acho que a série teria sido melhor nessa linha. Ainda prefiro a série que foi feita, simplesmente tirando a frase da Monica no final. Mas foi divertido o exercício de imaginar uma primeira temporada diferente.
 
-A única empatia fica por conta dos moradores da cidadezinha, coitada da mãe do Eric Forman.
+Por fim, a única empatia que senti ficou por conta dos moradores da cidadezinha, coitada da mãe do Eric Forman.
 
 
 
