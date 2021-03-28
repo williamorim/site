@@ -1,13 +1,13 @@
 {{ define "main" }}
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Params.id) }}
     
-    <div class = "intro">
+    <div class = "intro fadein-0">
         {{ .Content }}    
     </div>
     
     {{ range $paginator.Pages }}
     
-        <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
+        <div class="post fadein-2">
             {{ if (isset .Params "image") }}
             <a href = "{{ .RelPermalink }}">
                 <div style = "float: right; width: 40%;">

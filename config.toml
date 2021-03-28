@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "William Amorim"
 author = "William Amorim"
-description = "Este é o meu canto na internet"
+description = "Este é o meu canto na internet."
 profilePicture = "images/profile.jpg"
 keywords = ["william amorim"]
 favicon = "favicons/"

@@ -3,7 +3,7 @@
     
     {{ range $paginator.Pages }}
     
-        <div class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
+        <div class="post fadein-0">
             {{ if (isset .Params "image") }}
             <a href = "{{ .RelPermalink }}">
                 <div style = "float: right; width: 40%; overflow: hidden; height: 200px">

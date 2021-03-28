@@ -207,3 +207,32 @@ iframe {
   color: var(--link-color);
   font-weight: 700;
 }
+
+/* Fade-in */
+
+@-webkit-keyframes fade-in-item {
+  0%   { display: block; opacity: 0;  }
+  30% { display: block; opacity: .5; }
+  60% { display: block; opacity: .8; }
+  100% { display: block; opacity: 1; } 
+}
+
+.fadein-0 {
+  opacity: 0;
+  animation: fade-in-item 1.5s .1s ease-out forwards;
+}
+
+.fadein-1 {
+  opacity: 0;
+  animation: fade-in-item 2s 1s ease-out forwards;
+}
+
+.fadein-2 {
+  opacity: 0;
+  animation: fade-in-item 2s 2s ease-out forwards;
+}
+
+.fadein-post {
+  opacity: 0;
+  animation: fade-in-item 2s .1s ease-out forwards;
+}

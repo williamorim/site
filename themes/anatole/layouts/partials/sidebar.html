@@ -1,4 +1,4 @@
-<div class="sidebar{{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}">
+<div class='sidebar {{ if eq .Params.pagina "home" }} fadein-0 {{ end }}'>
     <div class="logo-title">
         <div class="title">
             <img src="{{ .Site.Params.profilePicture | absURL }}" alt="profile picture">
@@ -8,7 +8,7 @@
             </div>
         </div>
     </div>
-    <ul class="social-links">
+    <ul class="social-links .fadein-0">
         {{ range $item := .Site.Params.socialIcons }}
             <li>
                 <a href="{{ $item.url }}" rel="me" aria-label="{{ $item.title }}">

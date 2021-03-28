@@ -3,17 +3,18 @@
 {{- partial "head.html" . -}}
 <body>
 
-{{- partial "sidebar.html" . -}}
-<div class="main">
-    {{ partial "navbar.html" . }}
-    <div class="autopagerize_page_element">
-        <div class="content">
-            {{- block "main" . }}{{- end }}
+    {{- partial "sidebar.html" . -}}
+
+    <div class="main">
+        {{ partial "navbar.html" . }}
+        <div class="autopagerize_page_element">
+            <div class="content">
+                {{- block "main" . }}{{- end }}
+            </div>
         </div>
     </div>
-</div>
-
-{{- partial "footer.html" . -}}
+    
+    {{- partial "footer.html" . -}}
 </body>
 
 </html>
