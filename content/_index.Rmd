@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 idade <- floor(as.numeric((Sys.Date() - as.Date("1989/07/29")) / 365))
 
 ```
-
+ 
 ## Sobre mim
 
 Meu nome é William Nilson de Amorim, tenho `r idade` anos e moro em São Paulo (SP) desde que nasci.
