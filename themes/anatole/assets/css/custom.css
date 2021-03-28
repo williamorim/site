@@ -17,6 +17,18 @@ iframe {
   margin: 30px auto;
 }
 
+.content-full {
+  width: 70%; 
+  margin-left: 5%; 
+  float: left;
+  height: auto;
+  margin-top: 60px;
+}
+
+.content-full p {
+  font-size: 1.1em;
+}
+
 /* Sidebar */
 
 
@@ -228,6 +240,11 @@ iframe {
 }
 
 .fadein-2 {
+  opacity: 0;
+  animation: fade-in-item 2s 1.5s ease-out forwards;
+}
+
+.fadein-3 {
   opacity: 0;
   animation: fade-in-item 2s 2s ease-out forwards;
 }

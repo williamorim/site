@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{- site.Language.Lang -}}" data-theme="{{- .Site.Params.displayMode -}}">
+{{- partial "head.html" . -}}
+<body>
+    <div class="main">
+        <div class="page-top" style = "width: 100%">
+            <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+            <ul class="nav" id="navMenu">
+                {{ $url := .RelPermalink }}
+                {{ range .Site.Menus.main }}
+                    {{ $active := eq $url .URL }}
+                    <li><a {{if $active }}class="current"{{end}}
+                           href="{{ .URL }}"
+                                {{ if strings.HasPrefix .URL "http" }}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                {{ end }}
+                           title="{{ .Title }}">{{ .Name }}</a></li>
+                {{ end }}
+                {{ if .Site.IsMultiLingual }}
+                    {{ range $.Site.Home.AllTranslations }}
+                        <li><a href="{{ .Permalink }}"
+                               title="{{ .Language.LanguageName }}">{{ .Language.LanguageName }}</a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+                <li class="theme-switch-item">
+                    <a class="theme-switch" title="Switch Theme">
+                        <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="autopagerize_page_element">
+            <div class="content-full">
+                <div class='post fadein-post'>
+                    <div class="post-content">
+                        <div class="post-title">
+                            <h2>{{ .Title }}</h2>
+                            {{ if eq .Type "post"}}
+                                <div class="info">
+                                    <em class="fas fa-calendar-day"></em>
+                                    <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+                                    <em class="fas fa-stopwatch"></em>
+                                    <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>
+                                </div>
+                            {{ end }}
+                        </div>
+            
+                        {{ .Content }}
+            
+                        {{- if (eq .Params.contact true) -}}
+                          {{- partial "contact.html" . -}}
+                        {{- end -}}
+            
+                    </div>
+                    <div class="post-footer">
+                        <div class="info">
+                            {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+                            {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+                        </div>
+                    </div>
+            
+                    {{ if eq .Type "post"}}
+                        {{ if .Site.DisqusShortname -}}
+                            <div id="fb_comments_container">
+                                <h2>{{ i18n "comments" }}</h2>
+                                {{ template "_internal/disqus.html" . }}
+                            </div>
+                        {{- end }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    {{- partial "footer.html" . -}}
+</body>
+
+</html>
+
