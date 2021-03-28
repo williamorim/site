@@ -5,6 +5,52 @@
     <link>/tags/</link>
     <description>Recent content in Tags on William Amorim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jogos</title>
+      <link>/tags/jogos/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jogos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>séries</title>
+      <link>/tags/s%C3%A9ries/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/s%C3%A9ries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livros</title>
+      <link>/tags/livros/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/livros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recomendação</title>
+      <link>/tags/recomenda%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/recomenda%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinião</title>
+      <link>/tags/opini%C3%A3o/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/opini%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,6 +1,7 @@
 ---
 author: William Amorim
 pagina: home
+pagetitle: Home
 ---
 
 

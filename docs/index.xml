@@ -5,7 +5,71 @@
     <link>/</link>
     <description>Recent content on William Amorim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Momentos de 2020</title>
+      <link>/fotos/2020/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/fotos/2020/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Momentos de 2021</title>
+      <link>/fotos/2021/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/fotos/2021/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>A frase que estragou o final de WandaVision para mim</title>
+      <link>/blog/2021-03-05-wandavision/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021-03-05-wandavision/</guid>
+      <description>Eu tenho duas gatas, a Sophia e a Summer.</description>
+    </item>
+    
+    <item>
+      <title>Meu top 10 jogos</title>
+      <link>/blog/2021-01-01-meu-top-10-jogos/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021-01-01-meu-top-10-jogos/</guid>
+      <description>O objetivo deste top 10 é poder recriá-lo de tempos em tempos e ver a minha opinião mudando ao longo dos anos (e com o descubrimento de novos jogos).</description>
+    </item>
+    
+    <item>
+      <title>Pequeno Manual Antirracista</title>
+      <link>/blog/2020-12-28-pequeno-manual-antirracista/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-12-28-pequeno-manual-antirracista/</guid>
+      <description>Escrito pela filósofa, escritora e feminista negra Djamila Ribeiro e publicado pela Companhia Das Letras, o Pequeno Manual Antirracista (2019) é um excelente ponto de partida para mulheres e, principalmente, homens brancos entenderem e começarem a fazer parte do movimento antirracista.</description>
+    </item>
+    
+    <item>
+      <title>What Remains of Edith Finch</title>
+      <link>/blog/2020-12-27-what-remains/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-12-27-what-remains/</guid>
+      <description>What Remains of Edith Finch é um jogo da Giant Sparrow, lançado em 2017.</description>
+    </item>
+    
+    <item>
+      <title>Skate</title>
+      <link>/blog/2020-12-23-skate/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-12-23-skate/</guid>
+      <description>Não tenho nada contra skate ou skatistas, sinceramente.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>/archives/</link>
@@ -13,6 +77,42 @@
       
       <guid>/archives/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Abandonados</title>
+      <link>/contos/2017-04-20-abandonados/abandonados/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/contos/2017-04-20-abandonados/abandonados/</guid>
+      <description>A armadura prateada de Arthur brilhava sob o persistente sol da tarde, gotas de suor escapavam do seu rosto e pingavam na grama verde.</description>
+    </item>
+    
+    <item>
+      <title>Formigas</title>
+      <link>/contos/2017-02-02-formigas/2017-02-02-formigas/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/contos/2017-02-02-formigas/2017-02-02-formigas/</guid>
+      <description>Júlia empurrava lentamente o pesado carrinho de compras pelos corredores do supermercado quando percebeu que não fazia ideia do que estava fazendo.</description>
+    </item>
+    
+    <item>
+      <title>A bandeira desbotada</title>
+      <link>/contos/2017-01-25-bandeira-desbotada/2017-01-25-bandeira-desbotada/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/contos/2017-01-25-bandeira-desbotada/2017-01-25-bandeira-desbotada/</guid>
+      <description>Era uma esfera azul que girava despreocupadamente ao redor de um sol amarelo e sem graça.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/profissional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/profissional/</guid>
+      <description>Atualmente trabalho como professor, programador e cientista de dados na Curso-R e na R6, empresas das quais sou sou sócio-fundador.</description>
     </item>
     
   </channel>

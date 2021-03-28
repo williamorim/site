@@ -5,6 +5,25 @@
     <link>/fotos/</link>
     <description>Recent content on William Amorim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/fotos/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/fotos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Momentos de 2020</title>
+      <link>/fotos/2020/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/fotos/2020/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Momentos de 2021</title>
+      <link>/fotos/2021/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/fotos/2021/</guid>
+      <description>  </description>
+    </item>
+    
   </channel>
 </rss>
