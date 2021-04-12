@@ -36,24 +36,50 @@
             </ul>
          </div>
          <div class="autopagerize_page_element">
-            <div class="content-full">
-                
-               <div class='post fadein-post'>
-                  <div class="post-content">
-                     <div class="post-title">
-                        <h3>{{ .Title }}</h3>
-                     </div>
-                     <p>{{ .Description }}</p>
-                     <div class="row fotos">
-                        {{ range .Params.albumItem }}
-                        <div class="column">
-                            <img src = "/images/fotos/{{ index .fotos 0 }}">
+            <div class="content-galeria">
+                <div class = "content-full">
+                   <div class='post fadein-post'>
+                     <div class="post-content">
+                        <div class="post-title">
+                           <h3>{{ .Title }}</h3>
                         </div>
+                        <p><em>{{ .Description }}</em></p>
+                        <br>
+                        <div class="galeria-fotos">
+                           {{ range .Params.albumItem }}
+                           {{ $id := .id }}
+                           {{ $descricao := .descricao }}
+                           {{ $scratch := newScratch }}
+                           {{ $scratch.Set "number" 1 }}
+                              {{ range .fotos}}
+                              <div class = "foto">
+                                 <a href = '#lightbox-{{ $id }}-{{ $scratch.Get "number" }}'>
+                                   <img id = '{{ $id }}-{{ $scratch.Get "number" }}' src = "/images/fotos/{{ . }}"> 
+                                 </a>
+                                 <div class = "desc">{{ $descricao | markdownify}}</div>
+                              </div>
+                              {{ $scratch.Add "number" 1}}
+                              {{ end }}
+                           {{ end }}
+                       </div>
+                       {{ range .Params.albumItem }}
+                          {{ $id := .id }}
+                          {{ $scratch := newScratch }}
+                          {{ $scratch.Set "number" 1 }}
+                          {{ range .fotos}}
+                          <a class="close" href='#{{ $id }}-{{ $scratch.Get "number" }}'>
+                             <div class="lightbox" id='lightbox-{{ $id }}-{{ $scratch.Get "number" }}'>
+                               <div class="content">
+                                    <img src="/images/fotos/{{ . }}"/>
+                               </div>
+                             </div>
+                           </a>
+                          {{ $scratch.Add "number" 1}}
                         {{ end }}
-                        
-                    </div>
+                     {{ end }}
+                     </div>
                   </div>
-               </div>
+                </div>
             </div>
          </div>
       </div>

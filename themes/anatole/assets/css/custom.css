@@ -29,6 +29,10 @@ iframe {
   font-size: 1.1em;
 }
 
+.intro {
+  margin: 30px;
+}
+
 /* Sidebar */
 
 
@@ -51,38 +55,108 @@ iframe {
   margin-bottom: 20px;
 }
 
-/* fotos */
+/* galeria de fotos */
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-.column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-.fotos img {
-  margin-top: 8px;
-  vertical-align: middle;
+.content-galeria .content-full {
+  position: relative;
+  margin-top: 60px;
   width: 100%;
+  margin-left: auto;
 }
 
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
+.content-galeria .post {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
 }
 
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
+.galeria-fotos {
+  columns: 5 200px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.galeria-fotos .foto {
+  position: relative;
+  margin: 0 1.5rem 1rem 0;
+  display: inline-block;
+  width: 100%;
+  transition: all 0.25s ease-in-out;
+}
+
+.galeria-fotos .desc {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  margin: 0;
+  max-width: 90%;
+  opacity: 0;
+  font-weight: bold;
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
+.galeria-fotos div img {
+  width: 100%;
+  min-height: 100%;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.galeria-fotos > div:hover .desc {
+  opacity: 1;
+}
+
+.galeria-fotos > div:hover img {
+  filter: blur(5px);
+}
+
+
+[id^=lightbox-] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  opacity: 0;
+  transition: opacity 450ms ease-in-out;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+[id^=lightbox-]:target {
+  opacity: 1;
+  pointer-events: inherit;
+}
+
+[id^=lightbox-]:target img {
+  filter: blur(0);
+}
+
+[id^=lightbox-] .content {
+  max-width: 70%;
+  position: relative;
+  color: #fff;
+}
+
+[id^=lightbox-] .content > * {
+  transition: all 450ms ease-in-out;
+}
+
+[id^=lightbox-] img {
+  width: 60%;
+  margin: auto;
+  display: block;
+  padding: 0;
+  filter: blur(50px);
 }
 
 /* Fade-in */

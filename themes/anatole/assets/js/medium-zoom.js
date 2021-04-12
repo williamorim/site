@@ -455,4 +455,4 @@
     return mediumZoom;
 });
 
-mediumZoom(document.querySelectorAll('div.post-content img'));
+mediumZoom(document.querySelectorAll('.zoomimg'));

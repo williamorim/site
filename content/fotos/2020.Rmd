@@ -1,7 +1,8 @@
 ---
 title: Momentos de 2020
+paginaid: "galeria-2020"
 date: "`r Sys.Date()`"
-description: "Um ano de isolamento, de distância, de perda. O pior ano da vida de muita gente, com certeza o pior que já vivi. Mas que também teve companherismo, risadas, maratona de The Office e muito amor."
+description: "Tudo o que temos de decidir é o que fazer com o tempo que nos é dado. — J. R. R. Tolkien"
 image: "2020-11-17-sophia-hi-five.jpg"
 albumItem:
 
@@ -29,11 +30,6 @@ albumItem:
     date: 25 de outubro
     fotos: [2020-10-25-cafe-da-manha.jpg]
     descricao: "Café-da-manhã antes de passeio de bicicleta."
-    
-  - id: 2020-09-19-angelica-beijo
-    date: 19 de setembro
-    fotos: [2020-09-19-angelica-beijo.jpg]
-    descricao: "Amor em tempos de pandemia."
     
   - id: 2020-08-12-fallguys
     date: 12 de agosto
@@ -113,7 +109,7 @@ albumItem:
     
   - id: 2020-01-11-angelica-drosophyla
     date: 11 de janeiro
-    fotos: ["2020-01-11-angelica-drosophyla-1.jpg", "2020-01-11-angelica-drosophyla-2.jpg"]
+    fotos: ["2020-01-11-angelica-drosophyla-1.jpg"]
     descricao: "Conhecendo juntinhos o [Drosophyla bar](https://www.drosophyla.com.br/)."
     
   - id: 2020-01-07-angelica-etto
