@@ -17,7 +17,7 @@ listar_fotos <- function(padrao) {
       '
       - id: "{id}"
         date: "{data}"
-        fotos: "{arq}"
+        fotos: ["{arq}"]
         descricao: "" \n
       '
     ))

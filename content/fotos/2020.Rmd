@@ -1,7 +1,7 @@
 ---
 title: Momentos de 2020
-date: "`r Sys.Date()`"
-description: "Tudo o que temos de decidir é o que fazer com o tempo que nos é dado. — J. R. R. Tolkien"
+date: "2021-01-01"
+description: "*Tudo o que temos de decidir é o que fazer com o tempo que nos é dado. — J. R. R. Tolkien*"
 image: "2020-11-17-sophia-hi-five.jpg"
 albumItem:
 

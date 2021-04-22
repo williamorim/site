@@ -43,7 +43,7 @@
                         <div class="post-title">
                            <h3>{{ .Title }}</h3>
                         </div>
-                        <p><em>{{ .Description }}</em></p>
+                        <p class = "album-desc">{{ .Description | markdownify}}</p>
                         <br>
                         <div class="galeria-fotos">
                            {{ range .Params.albumItem }}

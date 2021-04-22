@@ -57,6 +57,10 @@ iframe {
 
 /* galeria de fotos */
 
+.content-full p.album-desc {
+  font-size: 0.8em;
+}
+
 .content-galeria .content-full {
   position: relative;
   margin-top: 60px;
@@ -102,6 +106,10 @@ iframe {
   text-shadow: 1px 1px black;
 }
 
+.galeria-fotos .desc a {
+  color: #8460cc;
+}
+
 .galeria-fotos div img {
   width: 100%;
   min-height: 100%;
@@ -142,7 +150,8 @@ iframe {
 }
 
 [id^=lightbox-] .content {
-  max-width: 70%;
+  width: 90%;
+  height: 90%;
   position: relative;
   color: #fff;
 }
@@ -152,7 +161,8 @@ iframe {
 }
 
 [id^=lightbox-] img {
-  width: 60%;
+  max-width: 90%;
+  max-height: 100%;
   margin: auto;
   display: block;
   padding: 0;
