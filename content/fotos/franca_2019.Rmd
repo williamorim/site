@@ -1,0 +1,187 @@
+---
+title: Madrid e Barcelona
+description: "Duas semanas pela França em 2019."
+date: "2019-07-20"
+image: "fr_paris_7.jpeg"
+albumItem:
+
+- id: "fr_avignon_1"
+  date: ""
+  fotos: ["fr_avignon_1.jpeg"]
+  descricao: "Avignon" 
+
+- id: "fr_avignon_2"
+  date: ""
+  fotos: ["fr_avignon_2.jpeg"]
+  descricao: "Avignon" 
+
+- id: "fr_avignon_3"
+  date: ""
+  fotos: ["fr_avignon_3.jpeg"]
+  descricao: "Avignon" 
+
+- id: "fr_avignon_4"
+  date: ""
+  fotos: ["fr_avignon_4.jpeg"]
+  descricao: "Avignon" 
+
+- id: "fr_avignon_5"
+  date: ""
+  fotos: ["fr_avignon_5.jpeg"]
+  descricao: "Avignon" 
+
+- id: "fr_caen_1"
+  date: ""
+  fotos: ["fr_caen_1.jpeg"]
+  descricao: "Caen" 
+
+- id: "fr_caen_2"
+  date: ""
+  fotos: ["fr_caen_2.jpeg"]
+  descricao: "Caen" 
+
+- id: "fr_caen_3"
+  date: ""
+  fotos: ["fr_caen_3.jpeg"]
+  descricao: "Caen" 
+
+- id: "fr_carcassone_1"
+  date: ""
+  fotos: ["fr_carcassone_1.jpeg"]
+  descricao: "Carcassone" 
+
+- id: "fr_carcassone_2"
+  date: ""
+  fotos: ["fr_carcassone_2.jpeg"]
+  descricao: "Carcassone" 
+
+- id: "fr_lyon_1"
+  date: ""
+  fotos: ["fr_lyon_1.jpeg"]
+  descricao: "Lyon" 
+
+- id: "fr_lyon_2"
+  date: ""
+  fotos: ["fr_lyon_2.jpeg"]
+  descricao: "Lyon" 
+
+- id: "fr_lyon_3"
+  date: ""
+  fotos: ["fr_lyon_3.jpeg"]
+  descricao: "Lyon" 
+
+- id: "fr_monte_saint-michel_1"
+  date: ""
+  fotos: ["fr_monte_saint-michel_1.jpeg"]
+  descricao: "Monte Saint-Michel" 
+
+- id: "fr_mt_st_michael_2"
+  date: ""
+  fotos: ["fr_mt_st_michael_2.jpeg"]
+  descricao: "Monte Saint-Michel" 
+
+- id: "fr_mt_st_michael_3"
+  date: ""
+  fotos: ["fr_mt_st_michael_3.jpeg"]
+  descricao: "Monte Saint-Michel" 
+
+- id: "fr_mt_st_michael_4"
+  date: ""
+  fotos: ["fr_mt_st_michael_4.jpeg"]
+  descricao: "Monte Saint-Michel" 
+
+- id: "fr_mt_st_michael_5"
+  date: ""
+  fotos: ["fr_mt_st_michael_5.jpeg"]
+  descricao: "Monte Saint-Michel" 
+
+- id: "fr_nantes_1"
+  date: ""
+  fotos: ["fr_nantes_1.jpeg"]
+  descricao: "Nantes" 
+
+- id: "fr_nantes_2"
+  date: ""
+  fotos: ["fr_nantes_2.jpeg"]
+  descricao: "Nantes" 
+
+- id: "fr_paris_1"
+  date: ""
+  fotos: ["fr_paris_1.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_10"
+  date: ""
+  fotos: ["fr_paris_10.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_11"
+  date: ""
+  fotos: ["fr_paris_11.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_12"
+  date: ""
+  fotos: ["fr_paris_12.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_13"
+  date: ""
+  fotos: ["fr_paris_13.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_14"
+  date: ""
+  fotos: ["fr_paris_14.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_2"
+  date: ""
+  fotos: ["fr_paris_2.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_3"
+  date: ""
+  fotos: ["fr_paris_3.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_4"
+  date: ""
+  fotos: ["fr_paris_4.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_5"
+  date: ""
+  fotos: ["fr_paris_5.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_6"
+  date: ""
+  fotos: ["fr_paris_6.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_7"
+  date: ""
+  fotos: ["fr_paris_7.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_8"
+  date: ""
+  fotos: ["fr_paris_8.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_paris_9"
+  date: ""
+  fotos: ["fr_paris_9.jpeg"]
+  descricao: "Paris" 
+
+- id: "fr_toulouse_1"
+  date: ""
+  fotos: ["fr_toulouse_1.jpeg"]
+  descricao: "Toulouse" 
+
+- id: "fr_toulouse_2"
+  date: ""
+  fotos: ["fr_toulouse_2.jpeg"]
+  descricao: "Toulouse" 
+---

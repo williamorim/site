@@ -1,4 +1,4 @@
-listar_fotos <- function(padrao) {
+listar_fotos <- function(padrao, padrao_desc = NULL) {
   arquivos <- list.files(
     "static/images/fotos/",
     pattern = padrao
@@ -10,6 +10,12 @@ listar_fotos <- function(padrao) {
     } else {
       data <- ""
     }
+    if (!is.null(padrao_desc)) {
+      desc <- stringr::str_remove_all(arq, padrao_desc)
+      desc <- stringr::str_to_title(desc)
+    } else {
+      dest <- ""
+    }
     
     data <- tidyr::replace_na(data, "")
     id <- stringr::str_remove(arq, "\\..*$")
@@ -18,7 +24,7 @@ listar_fotos <- function(padrao) {
       - id: "{id}"
         date: "{data}"
         fotos: ["{arq}"]
-        descricao: "" \n
+        descricao: "{desc}" \n
       '
     ))
   }

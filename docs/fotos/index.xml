@@ -13,7 +13,7 @@
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/fotos/2021/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/fotos/2020/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -31,7 +31,16 @@
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/fotos/espanha_2019/</guid>
-      <description></description>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Madrid e Barcelona</title>
+      <link>/fotos/franca_2019/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fotos/franca_2019/</guid>
+      <description>   </description>
     </item>
     
   </channel>
