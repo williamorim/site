@@ -14,7 +14,7 @@ listar_fotos <- function(padrao, padrao_desc = NULL) {
       desc <- stringr::str_remove_all(arq, padrao_desc)
       desc <- stringr::str_to_title(desc)
     } else {
-      dest <- ""
+      desc <- ""
     }
     
     data <- tidyr::replace_na(data, "")
