@@ -7,18 +7,18 @@
             {{ if (isset .Params "image") }}
             <a href = "{{ .RelPermalink }}">
                 <div style = "float: right; width: 40%; overflow: hidden; height: 200px;">
-                <img src = "/images/fotos/{{ .Params.image }}" width = "100%">
+                <img src = "/images/fotos/{{ .Params.image }}" height = "100%" style = "display: block; margin: auto;">
             </div>  
             </a>
             
             {{ end }}
             
             <div class="post-title-list">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </h3>
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h2>
             </div>
             <div class="post-desc">
-                <div class="p_part"><p><em>{{ .Params.description }}</em></p></div>
+                <div class="p_part"><p>{{ .Params.description | markdownify }}</p></div>
             </div>
             <div class="post-footer">
                 <div class="meta">

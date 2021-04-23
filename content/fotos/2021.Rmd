@@ -2,7 +2,7 @@
 title: Momentos de 2021
 description: "Esperando a vacina..."
 date: "`r Sys.Date()`"
-image: "2021-04-04-gatas.jpeg"
+image: "em_construcao.png"
 albumItem:
 
   - id: 2021-02-07-sophia-patinhas

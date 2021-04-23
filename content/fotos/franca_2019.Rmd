@@ -2,7 +2,7 @@
 title: França
 description: "Duas semanas pela França em 2019."
 date: "2019-07-21"
-image: "fr_paris_7.jpeg"
+image: "capa_fr.svg"
 albumItem:
 
 - id: "fr_avignon_1"

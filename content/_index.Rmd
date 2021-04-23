@@ -22,6 +22,8 @@ Sou apaixonado por histórias e por futebol.
 
 Tenho duas gatas: a Sophia e a Summer.
 
+<br>
+
 <center>
   <img src="../images/home/sophia.jpg" class = "imagem-bola">
   <img src="../images/home/summer.jpg" class = "imagem-bola">
@@ -31,6 +33,9 @@ Tenho duas gatas: a Sophia e a Summer.
 
 ## Sobre este site
 
-A ideia deste site surgiu quando resolvi apagar as minhas redes sociais. É uma maneira de continuar me comunicando, sem o intermédio algoritmos e empresas. 
+A ideia deste site surgiu quando resolvi apagar as minhas redes sociais. Foi uma maneira de continuar me comunicando, sem a presença de algoritmos, empresas e tudo mais que me chateava nas redes.
 
-O que você vê neste site é o mesmo que qualquer outra pessoa, não há nada otimizado para você. Também não há propagandas, nem botões de like, nem contadores de acesso ou qualquer marcador de navegação. Você está no controle do seu clique: ele é seu e não está sendo trocado por nada aqui.
+Posteriormente, resolvi voltar para algumas redes, com o objetivo único de acompanhar e divulgar trabalhos. Este site continua sendo meu o canto na internet para coisas pessoais.
+
+O que você vê neste site é o mesmo que qualquer outra pessoa, não há nada otimizado para você. Também não há propagandas, nem botões de like, nem contadores de acesso ou qualquer marcador de navegação. Você está aqui porque quer e está no controle do seu clique: ele não está sendo trocado por nada aqui.
+
