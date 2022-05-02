@@ -25,8 +25,8 @@ Tenho duas gatas: a Sophia e a Summer.
 <br>
 
 <center>
-  <img src="images/home/sophia.jpg" class = "imagem-bola">
-  <img src="images/home/summer.jpg" class = "imagem-bola">
+  <img src="../images/home/sophia.jpg" class = "imagem-bola">
+  <img src="../images/home/summer.jpg" class = "imagem-bola">
 </center>
 
 <br> 
